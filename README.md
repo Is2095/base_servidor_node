@@ -51,3 +51,4 @@
 ![*](imagenes/1686271781190.jpg)
 
 [ir a mi linkedin](https://www.linkedin.com/in/ismael-diaz-3b440b27a)
+
