@@ -1,5 +1,7 @@
 ## Descripción
-*BaseServidorNode, es un proyecto en cual están las bases de un servidor con Node.js, un servidor con Node.js utilizando peticiones con rutas diferentes y por último un servidor Node.js utilizando el framework Express.js*
+
+![*](imagenes/node.png)
+*BaseServidorNode, es un proyecto en el cual están las bases de un servidor con Node.js, utilizando peticiones con diversas rutas y por último, un servidor con Node.js y el framework Express.js*
 
 ---
 
@@ -48,5 +50,4 @@
 ## **" Mi nombre es Ismael "** 
 ![*](imagenes/1686271781190.jpg)
 
-[ir a mi linkedin]("https://www.linkedin.com/in/ismael-diaz-3b440b27a", "Linkedin del desarrollador")
-
+[ir a mi linkedin](https://www.linkedin.com/in/ismael-diaz-3b440b27a)
